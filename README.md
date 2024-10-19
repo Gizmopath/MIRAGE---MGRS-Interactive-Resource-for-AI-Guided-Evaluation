@@ -3,11 +3,7 @@ A user-friendly application designed to assist clinicians in predicting the like
 
 ## Project Overview
 
-This tool was developed as part of a retrospective cohort study conducted across three medical centers in Italy:
-
-- The Nephropathology Center at IRCCS Fondazione San Gerardo dei Tintori, Monza, University of Milano-Bicocca (UNIMIB)
-- The Nephrology Unit at Spedali Civili Hospital, Brescia
-- The Nephrology, Dialysis, and Kidney Transplant Unit at IRCCS Azienda Ospedaliero-Universitaria, Bologna
+This tool was developed as part of a retrospective multicentric cohort study conducted across three medical centers in Italy:
 
 The dataset includes **438 renal biopsy cases** collected between 2018 and 2022, with 43% classified as MGRS based on biopsy results. The model was trained to differentiate between MGRS and non-MGRS cases using clinical variables such as age, serum creatinine, proteinuria, presence of M-spike, Bence-Jones protein, and free light chain (FLC) ratios.
 
