@@ -27,8 +27,8 @@ To install MIRAGE on Android mobile devices from an .APK file, follow these step
 MIRAGE, as a desktop application, is compatible with Windows 10 and it was developed using the open-source Python's Pyinstaller library. It is standalone, thus it does not require a separate Python installation on the target machine. 
 
 To use MIRAGE on your computer desktop, follow these steps:
-  1. download the .exe file to a Windows 10 OS device
-  2. lauch it directly by double-clicking
+  1. Download the .exe file to a Windows 10 OS device
+  2. Lauch it directly by double-clicking
 
 ## MIRAGE: instructions for use
 Whether you have installed the application on a mobile device or are using it via a desktop computer, its extremely intuitive and simple operation is the same. Once the application is open, you simply need to enter some basic clinical data (_age_, _serum creatinine at biopsy_, _proteinuria_, _amount of FLC kappa_, and _amount of FLC lambda_) and select one of the available options for the following fields: _sex_ (_female_, _male_), _Bence Jones_ (_yes_, _no_), _M-spike_ (_yes_, _no_), _type of FLC_ (_lambda_, _kappa_), and _type of heavy chain_ (_IgA_, _IgG_, _IgD_, _IgM_). Note that when both _Bence Jones_ and _M-spike_ (_yes_, _no_) are set to _no_, the fields _type of FLC_ and _type of heavy chain_ will automatically disappear, as they would be not applicable.  
